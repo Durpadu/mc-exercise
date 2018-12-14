@@ -10,3 +10,5 @@ What do you call a fly with no wings?  Answer: A walk.
 Yo, this is Carol and Bob's newest input!  
 
 Adding content from Carol & Bob on Carol's computer, round 3.
+
+Input is content from Ted to create conflict, round 3
